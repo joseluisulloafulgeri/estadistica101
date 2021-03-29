@@ -2,9 +2,11 @@
 title: "Estadística 101"
 ---
 
-Este curso asume que no sabes nada de estadística.<br/>
-Sin embargo, si asume que sabes lo básico de fracciones.<br/><br/>
+<br/>
+Este curso se inspira de <a href="https://www.goodreads.com/book/show/578667.Statistics_Without_Tears" target="_blank">Statistics without tears</a> de Derek Rowntree y <a href="https://www.discoveringstatistics.com/books/discovering-statistics-using-r/" target="_blank">Discovering statistics using R</a>  de Andy Field, Jeremy Miles y Zoë Field.<br/>
+Este curso también utiliza material del libro "Discovering statistics using R". Este material no me pertenece y es accesible <a href="https://studysites.uk.sagepub.com/dsur/study/articles.htm" target="_blank">aquí.</a>
 
+Este curso asume que no sabes nada de estadística. Sin embargo, si asume que sabes lo básico de fracciones. La mejor manera de aprender es que respondas las preguntas clave de cada capítulo. Y que realizes los ejercicios con la ayuda de Jamovi. La base de datos que vamos a utilizar se encuentra <a href="https://github.com/joseluisulloafulgeri/estadistica101_database" target="_blank">aquí.</a> ¡Que disfrutes el curso!.<br/><br/>
 
 ## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaCt1fDe0vl-pBt_Y4A0uaU" target="_blank">Capítulo 1a: ¿Para que nos sirve la estadística?</a>
 
@@ -57,11 +59,12 @@ Preguntas clave:
 <a href="https://www.youtube.com/watch?v=K0djrU94yvg&ab_channel=Jos%C3%A9LuisBlues" target="_blank"><span style="color:blue">Estadística en la práctica 1: Instalando Jamovi (2.5 minutos)</span></a>
 <br/><br/>
 
-## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGYNH1thjd8KkRyr-JVPzvR3" target="_blank">Capítulo 2: ¿Por qué importanto tanto la curva normal?</a>
+## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGYNH1thjd8KkRyr-JVPzvR3" target="_blank">Capítulo 2: ¿Por qué importa tanto tanto la curva normal?</a>
 
 Contenido: 8 videos (1 hora 32 minutos en total)
 
 - ¿Por qué es tan importante la curva normal?
+
 
 <a href="https://www.youtube.com/watch?v=1DaF6lau7hA&ab_channel=Jos%C3%A9LuisBlues" target="_blank"><span style="color:blue">Estadística en la práctica 2: Explorando mis datos (17 minutos)</span></a>
 
