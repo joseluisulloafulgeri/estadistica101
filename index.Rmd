@@ -122,6 +122,20 @@ Contenido: 3 videos (39 minutos en total)
 Contenido: 4 videos (53 minutos en total)
 
 - ¿Cómo comparamos varias condiciones experimentales?
+- ¿Cuántos distintos tipos de ANOVA existen?
+- ¿De qué dependen del tipo de ANOVA que usemos para realizar un análisis?
+- ¿Qué es un factor en un ANOVA?
+- ¿Qué es un nivel en un ANOVA?
+- ¿Qué es un ANOVA mixto?
+- ¿En un experimento hipotético con 3 condiciones experimentales por qué no podemos usar 3 t-test?
+- ¿Cuanto aumenta el error de tipo 1 cuando aumentamos el número de comparaciones que hacemos?
+- ¿Qué es una prueba omnibus?
+- ¿Cuáles son los supuestos del ANOVA?
+- ¿Qué nos dice el valor F en un ANOVA?
+- ¿Por qué el ANOVA se puede representar como una regresión?
+- ¿Para que nos sirven las variables ficticias (dummy coding) en el ANOVA?
+- ¿Qué es el intercepto en la ecuación que representa el ANOVA?
+- ¿Qué indican los coeficientes (o betas) en la ecuación que representa el ANOVA?
 
 <a href="https://www.youtube.com/watch?v=ND6EalaIWa4&ab_channel=Jos%C3%A9LuisBlues" target="_blank"><span style="color:blue">Estadística en la práctica 6: ANOVA independiente (15 minutos)</span></a>
 <br/><br/>
